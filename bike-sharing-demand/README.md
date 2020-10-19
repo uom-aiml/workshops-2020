@@ -1,5 +1,7 @@
 # Bike Sharing Demand Prediction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uom-aiml/workshops-2020/blob/main/bike-sharing-demand/bike_sharing_regression_analysis.ipynb)
+
 This task deals with some regression principles applied to bike sharing demand forecasting.
 
 The dataset is taken from the [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand/data) Kaggle challenge, from which you can download the necessary `csv` files. The task is as follows:
