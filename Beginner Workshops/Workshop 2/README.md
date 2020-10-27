@@ -1,2 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/uom-aiml/workshops-2020/blob/main/Beginner%20Workshops/Workshop%202/Workshop2_Models.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uom-aiml/workshops-2020/blob/main/Beginner%20Workshops/Workshop%202/Workshop2_Models.ipynb)
